@@ -1,0 +1,20 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Logs
+logs/
+*.log
+
+# dotenv
+.env
+
+# Prisma
+backend/prisma/dev.db
+
+# Next build
+frontend/.next/
+frontend/out/
+
+# Dist
+backend/dist/
